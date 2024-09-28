@@ -11,3 +11,4 @@ vite.config.ts.timestamp-*
 .netlify
 .yarn/
 yarn.lock
+package-lock.json
